@@ -15350,3 +15350,11 @@ h2.subtitu {
     max-height: inherit;
 }
 }
+
+@media (max-width: 982px) {
+.navbar-1 .container .navbar-brand .navbar-item a picture img {
+    height: 4rem;
+    width: auto;
+    max-height: inherit;
+}
+}
