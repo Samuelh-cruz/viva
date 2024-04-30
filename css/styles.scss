@@ -1,0 +1,25 @@
+@charset "utf-8";
+// Definição das cores do cliente.
+$color1: #c6d2c6;
+$color3: #a5bdb3;
+$color4: #ddd0be;
+$color2: #ceb2a7;
+$color5: #bf7d81;
+$success: #7bb737;
+$link: #af5dfc;
+$info: #5d7dfc;
+$warning: #eabc3c;
+$danger: #ff668c;
+$light: #fafafa;
+$dark: #1b1a17;
+$white: #fafafa;
+$black: #1b1a17;
+$inactive: #bbbbbb;
+
+// Define saturação para Clarear e Escurecer as cores.
+$saturacao: 2%;
+$saturacaoMais: 15%;
+
+$prefix: ms- !default;
+
+@import "../../Temas/tema-36/_styles.scss";
